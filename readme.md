@@ -1,6 +1,6 @@
  # Cadastro de Clientes
 
-[Esse projeto é um aplicativo desenvovido para um pequeno empreendedor, cria um cadastro ds contatos dos seus clientes.]
+[Esse projeto é um aplicativo desenvolvido para um pequeno empreendedor, cria um cadastro ds contatos dos seus clientes.]
 
 ## Tecnologias Utilizadas
 
@@ -26,5 +26,5 @@ Ter os seguintes softwares instalados:
 * Clone do repositório:
 
 ```bash
-    git clone [https://github.com/dolthub/dolt](https://github.com/dolthub/dolt)
-    ```
+    git clone [https://github.com/ciane-pereira/react_native_cadastro.git]
+    
